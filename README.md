@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lynx-jk
 - 👀 I’m interested in Python, Backend developement, Machine Learning
 - 🌱 I’m currently learning Django, Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning, Computer Vision
+- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning, Computer Vision projects
 - 📫 How to reach me tahambohra@gmail.com
 
 <!---
